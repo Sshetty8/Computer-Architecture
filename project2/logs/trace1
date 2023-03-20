@@ -1,0 +1,781 @@
+
+execution time: 0
+[1] fetching: 96900
+
+execution time: 1
+[2] decoding: 96900
+[1] fetching: be800
+
+execution time: 2
+[3] executing: 96900 current cycle: 1 cycle needed: 1
+[2] decoding: be800
+[1] fetching: 110a08c0
+
+execution time: 3
+[3] executing: be800 current cycle: 1 cycle needed: 1
+[2] decoding: 110a08c0
+[1] fetching: 110609ab
+
+execution time: 4
+[3] executing: 110a08c0 current cycle: 1 cycle needed: 1
+[2] decoding: 110609ab
+[1] fetching: 110c0777
+
+execution time: 5
+[3] executing: 110609ab current cycle: 1 cycle needed: 1
+[2] decoding: 110c0777
+[1] fetching: d7c00
+
+execution time: 6
+[3] executing: 110c0777 current cycle: 1 cycle needed: 1
+[2] decoding: d7c00
+[1] fetching: b2e00
+
+execution time: 7
+[3] executing: d7c00 current cycle: 1 cycle needed: 1
+[2] decoding: b2e00
+[1] fetching: 10070907
+
+execution time: 8
+[3] executing: b2e00 current cycle: 1 cycle needed: 1
+[2] decoding: 10070907
+[1] fetching: 11040491
+
+execution time: 9
+[3] executing: 10070907 current cycle: 1 cycle needed: 1
+[2] decoding: 11040491
+[1] fetching: 16100
+
+execution time: 10
+[3] executing: 11040491 current cycle: 1 cycle needed: 1
+[2] decoding: 16100
+[1] fetching: 10070d09
+
+execution time: 11
+[3] executing: 16100 current cycle: 1 cycle needed: 1
+[2] decoding: 10070d09
+[1] fetching: 10040c03
+
+execution time: 12
+[3] executing: 10070d09 current cycle: 1 cycle needed: 1
+[2] decoding: 10040c03
+[1] fetching: 73400
+
+execution time: 13
+[3] executing: 10040c03 current cycle: 1 cycle needed: 1
+[2] decoding: 73400
+[1] fetching: e1500
+
+execution time: 14
+[3] executing: 73400 current cycle: 1 cycle needed: 1
+[2] decoding: e1500
+[1] fetching: 110b0985
+
+execution time: 15
+[3] executing: e1500 current cycle: 1 cycle needed: 1
+[2] decoding: 110b0985
+[1] fetching: 110d068a
+
+execution time: 16
+[3] executing: 110b0985 current cycle: 1 cycle needed: 1
+[2] decoding: 110d068a
+[1] fetching: 10030104
+
+execution time: 17
+[3] executing: 110d068a current cycle: 1 cycle needed: 1
+[2] decoding: 10030104
+[1] fetching: 1109015c
+
+execution time: 18
+[3] executing: 10030104 current cycle: 1 cycle needed: 1
+[2] decoding: 1109015c
+[1] fetching: 11060395
+
+execution time: 19
+[3] executing: 1109015c current cycle: 1 cycle needed: 1
+[2] decoding: 11060395
+[1] fetching: a6400
+
+execution time: 20
+[3] executing: 11060395 current cycle: 1 cycle needed: 1
+[2] decoding: a6400
+[1] fetching: 11080021
+
+execution time: 21
+[3] executing: a6400 current cycle: 1 cycle needed: 1
+[2] decoding: 11080021
+[1] fetching: 100b0e0c
+
+execution time: 22
+[3] executing: 11080021 current cycle: 1 cycle needed: 1
+[2] decoding: 100b0e0c
+[1] fetching: 11030fd8
+
+execution time: 23
+[3] executing: 100b0e0c current cycle: 1 cycle needed: 1
+[2] decoding: 11030fd8
+[1] fetching: 110a01e7
+
+execution time: 24
+[3] executing: 11030fd8 current cycle: 1 cycle needed: 1
+[2] decoding: 110a01e7
+[1] fetching: 10060d00
+
+execution time: 25
+[3] executing: 110a01e7 current cycle: 1 cycle needed: 1
+[2] decoding: 10060d00
+[1] fetching: 71a00
+
+execution time: 26
+[3] executing: 10060d00 current cycle: 1 cycle needed: 1
+[2] decoding: 71a00
+[1] fetching: d3e00
+
+execution time: 27
+[3] executing: 71a00 current cycle: 1 cycle needed: 1
+[2] decoding: d3e00
+[1] fetching: 10040901
+
+execution time: 28
+[3] executing: d3e00 current cycle: 1 cycle needed: 1
+[2] decoding: 10040901
+[1] fetching: 110904d3
+
+execution time: 29
+[3] executing: 10040901 current cycle: 1 cycle needed: 1
+[2] decoding: 110904d3
+[1] fetching: 1ef00
+
+execution time: 30
+[3] executing: 110904d3 current cycle: 1 cycle needed: 1
+[2] decoding: 1ef00
+[1] fetching: 110a055a
+
+execution time: 31
+[3] executing: 1ef00 current cycle: 1 cycle needed: 1
+[2] decoding: 110a055a
+[1] fetching: 3a800
+
+execution time: 32
+[3] executing: 110a055a current cycle: 1 cycle needed: 1
+[2] decoding: 3a800
+[1] fetching: e6d00
+
+execution time: 33
+[3] executing: 3a800 current cycle: 1 cycle needed: 1
+[2] decoding: e6d00
+[1] fetching: 1002020c
+
+execution time: 34
+[3] executing: e6d00 current cycle: 1 cycle needed: 1
+[2] decoding: 1002020c
+[1] fetching: 11010d25
+
+execution time: 35
+[3] executing: 1002020c current cycle: 1 cycle needed: 1
+[2] decoding: 11010d25
+[1] fetching: 1002060d
+
+execution time: 36
+[3] executing: 11010d25 current cycle: 1 cycle needed: 1
+[2] decoding: 1002060d
+[1] fetching: 16200
+
+execution time: 37
+[3] executing: 1002060d current cycle: 1 cycle needed: 1
+[2] decoding: 16200
+[1] fetching: 110f059f
+
+execution time: 38
+[3] executing: 16200 current cycle: 1 cycle needed: 1
+[2] decoding: 110f059f
+[1] fetching: 11010def
+
+execution time: 39
+[3] executing: 110f059f current cycle: 1 cycle needed: 1
+[2] decoding: 11010def
+[1] fetching: 11050171
+
+execution time: 40
+[3] executing: 11010def current cycle: 1 cycle needed: 1
+[2] decoding: 11050171
+[1] fetching: 110f0256
+
+execution time: 41
+[3] executing: 11050171 current cycle: 1 cycle needed: 1
+[2] decoding: 110f0256
+[1] fetching: 23f00
+
+execution time: 42
+[3] executing: 110f0256 current cycle: 1 cycle needed: 1
+[2] decoding: 23f00
+[1] fetching: 10030001
+
+execution time: 43
+[3] executing: 23f00 current cycle: 1 cycle needed: 1
+[2] decoding: 10030001
+[1] fetching: 10050d07
+
+execution time: 44
+[3] executing: 10030001 current cycle: 1 cycle needed: 1
+[2] decoding: 10050d07
+[1] fetching: 11040b86
+
+execution time: 45
+[3] executing: 10050d07 current cycle: 1 cycle needed: 1
+[2] decoding: 11040b86
+[1] fetching: 58200
+
+execution time: 46
+[3] executing: 11040b86 current cycle: 1 cycle needed: 1
+[2] decoding: 58200
+[1] fetching: 11010163
+
+execution time: 47
+[3] executing: 58200 current cycle: 1 cycle needed: 1
+[2] decoding: 11010163
+[1] fetching: 10050500
+
+execution time: 48
+[3] executing: 11010163 current cycle: 1 cycle needed: 1
+[2] decoding: 10050500
+[1] fetching: 10080704
+
+execution time: 49
+[3] executing: 10050500 current cycle: 1 cycle needed: 1
+[2] decoding: 10080704
+[1] fetching: 10060e02
+
+execution time: 50
+[3] executing: 10080704 current cycle: 1 cycle needed: 1
+[2] decoding: 10060e02
+[1] fetching: f7900
+
+execution time: 51
+[3] executing: 10060e02 current cycle: 1 cycle needed: 1
+[2] decoding: f7900
+[1] fetching: 110e0e2a
+
+execution time: 52
+[3] executing: f7900 current cycle: 1 cycle needed: 1
+[2] decoding: 110e0e2a
+[1] fetching: edc00
+
+execution time: 53
+[3] executing: 110e0e2a current cycle: 1 cycle needed: 1
+[2] decoding: edc00
+[1] fetching: 10090103
+
+execution time: 54
+[3] executing: edc00 current cycle: 1 cycle needed: 1
+[2] decoding: 10090103
+[1] fetching: 1007010c
+
+execution time: 55
+[3] executing: 10090103 current cycle: 1 cycle needed: 1
+[2] decoding: 1007010c
+[1] fetching: 10010109
+
+execution time: 56
+[3] executing: 1007010c current cycle: 1 cycle needed: 1
+[2] decoding: 10010109
+[1] fetching: 1001020f
+
+execution time: 57
+[3] executing: 10010109 current cycle: 1 cycle needed: 1
+[2] decoding: 1001020f
+[1] fetching: 110603a8
+
+execution time: 58
+[3] executing: 1001020f current cycle: 1 cycle needed: 1
+[2] decoding: 110603a8
+[1] fetching: 1109065b
+
+execution time: 59
+[3] executing: 110603a8 current cycle: 1 cycle needed: 1
+[2] decoding: 1109065b
+[1] fetching: 6f900
+
+execution time: 60
+[3] executing: 1109065b current cycle: 1 cycle needed: 1
+[2] decoding: 6f900
+[1] fetching: 1008000e
+
+execution time: 61
+[3] executing: 6f900 current cycle: 1 cycle needed: 1
+[2] decoding: 1008000e
+[1] fetching: 8e100
+
+execution time: 62
+[3] executing: 1008000e current cycle: 1 cycle needed: 1
+[2] decoding: 8e100
+[1] fetching: 110a0359
+
+execution time: 63
+[3] executing: 8e100 current cycle: 1 cycle needed: 1
+[2] decoding: 110a0359
+[1] fetching: 10070f0b
+
+execution time: 64
+[3] executing: 110a0359 current cycle: 1 cycle needed: 1
+[2] decoding: 10070f0b
+[1] fetching: 11080af0
+
+execution time: 65
+[3] executing: 10070f0b current cycle: 1 cycle needed: 1
+[2] decoding: 11080af0
+[1] fetching: f1200
+
+execution time: 66
+[3] executing: 11080af0 current cycle: 1 cycle needed: 1
+[2] decoding: f1200
+[1] fetching: 6d400
+
+execution time: 67
+[3] executing: f1200 current cycle: 1 cycle needed: 1
+[2] decoding: 6d400
+[1] fetching: 110a0c56
+
+execution time: 68
+[3] executing: 6d400 current cycle: 1 cycle needed: 1
+[2] decoding: 110a0c56
+[1] fetching: ec900
+
+execution time: 69
+[3] executing: 110a0c56 current cycle: 1 cycle needed: 1
+[2] decoding: ec900
+[1] fetching: 11090024
+
+execution time: 70
+[3] executing: ec900 current cycle: 1 cycle needed: 1
+[2] decoding: 11090024
+[1] fetching: 100f0c0b
+
+execution time: 71
+[3] executing: 11090024 current cycle: 1 cycle needed: 1
+[2] decoding: 100f0c0b
+[1] fetching: 10000b02
+
+execution time: 72
+[3] executing: 100f0c0b current cycle: 1 cycle needed: 1
+[2] decoding: 10000b02
+[1] fetching: 1f000
+
+execution time: 73
+[3] executing: 10000b02 current cycle: 1 cycle needed: 1
+[2] decoding: 1f000
+[1] fetching: 10080a0f
+
+execution time: 74
+[3] executing: 1f000 current cycle: 1 cycle needed: 1
+[2] decoding: 10080a0f
+[1] fetching: 100d0b00
+
+execution time: 75
+[3] executing: 10080a0f current cycle: 1 cycle needed: 1
+[2] decoding: 100d0b00
+[1] fetching: 9e100
+
+execution time: 76
+[3] executing: 100d0b00 current cycle: 1 cycle needed: 1
+[2] decoding: 9e100
+[1] fetching: 6b100
+
+execution time: 77
+[3] executing: 9e100 current cycle: 1 cycle needed: 1
+[2] decoding: 6b100
+[1] fetching: 11030165
+
+execution time: 78
+[3] executing: 6b100 current cycle: 1 cycle needed: 1
+[2] decoding: 11030165
+[1] fetching: 47d00
+
+execution time: 79
+[3] executing: 11030165 current cycle: 1 cycle needed: 1
+[2] decoding: 47d00
+[1] fetching: 110c050b
+
+execution time: 80
+[3] executing: 47d00 current cycle: 1 cycle needed: 1
+[2] decoding: 110c050b
+[1] fetching: 1000090d
+
+execution time: 81
+[3] executing: 110c050b current cycle: 1 cycle needed: 1
+[2] decoding: 1000090d
+[1] fetching: 11010986
+
+execution time: 82
+[3] executing: 1000090d current cycle: 1 cycle needed: 1
+[2] decoding: 11010986
+[1] fetching: a0200
+
+execution time: 83
+[3] executing: 11010986 current cycle: 1 cycle needed: 1
+[2] decoding: a0200
+[1] fetching: 1106051d
+
+execution time: 84
+[3] executing: a0200 current cycle: 1 cycle needed: 1
+[2] decoding: 1106051d
+[1] fetching: 110802a1
+
+execution time: 85
+[3] executing: 1106051d current cycle: 1 cycle needed: 1
+[2] decoding: 110802a1
+[1] fetching: 10080d04
+
+execution time: 86
+[3] executing: 110802a1 current cycle: 1 cycle needed: 1
+[2] decoding: 10080d04
+[1] fetching: 10060902
+
+execution time: 87
+[3] executing: 10080d04 current cycle: 1 cycle needed: 1
+[2] decoding: 10060902
+[1] fetching: 10090403
+
+execution time: 88
+[3] executing: 10060902 current cycle: 1 cycle needed: 1
+[2] decoding: 10090403
+[1] fetching: 100d0307
+
+execution time: 89
+[3] executing: 10090403 current cycle: 1 cycle needed: 1
+[2] decoding: 100d0307
+[1] fetching: 10050e0a
+
+execution time: 90
+[3] executing: 100d0307 current cycle: 1 cycle needed: 1
+[2] decoding: 10050e0a
+[1] fetching: 10050c0e
+
+execution time: 91
+[3] executing: 10050e0a current cycle: 1 cycle needed: 1
+[2] decoding: 10050c0e
+[1] fetching: 110d0f91
+
+execution time: 92
+[3] executing: 10050c0e current cycle: 1 cycle needed: 1
+[2] decoding: 110d0f91
+[1] fetching: 4e600
+
+execution time: 93
+[3] executing: 110d0f91 current cycle: 1 cycle needed: 1
+[2] decoding: 4e600
+[1] fetching: 110a0f9d
+
+execution time: 94
+[3] executing: 4e600 current cycle: 1 cycle needed: 1
+[2] decoding: 110a0f9d
+[1] fetching: 10090a0b
+
+execution time: 95
+[3] executing: 110a0f9d current cycle: 1 cycle needed: 1
+[2] decoding: 10090a0b
+[1] fetching: 1100069a
+
+execution time: 96
+[3] executing: 10090a0b current cycle: 1 cycle needed: 1
+[2] decoding: 1100069a
+[1] fetching: dfb00
+
+execution time: 97
+[3] executing: 1100069a current cycle: 1 cycle needed: 1
+[2] decoding: dfb00
+[1] fetching: 10030806
+
+execution time: 98
+[3] executing: dfb00 current cycle: 1 cycle needed: 1
+[2] decoding: 10030806
+[1] fetching: 110d022e
+
+execution time: 99
+[3] executing: 10030806 current cycle: 1 cycle needed: 1
+[2] decoding: 110d022e
+[1] fetching: 110a0898
+
+execution time: 100
+[3] executing: 110d022e current cycle: 1 cycle needed: 1
+[2] decoding: 110a0898
+[1] fetching: fca00
+
+execution time: 101
+[3] executing: 110a0898 current cycle: 1 cycle needed: 1
+[2] decoding: fca00
+[1] fetching: 2c300
+
+execution time: 102
+[3] executing: fca00 current cycle: 1 cycle needed: 1
+[2] decoding: 2c300
+[1] fetching: 24800
+
+execution time: 103
+[3] executing: 2c300 current cycle: 1 cycle needed: 1
+[2] decoding: 24800
+[1] fetching: c7200
+
+execution time: 104
+[3] executing: 24800 current cycle: 1 cycle needed: 1
+[2] decoding: c7200
+[1] fetching: 100c0f0b
+
+execution time: 105
+[3] executing: c7200 current cycle: 1 cycle needed: 1
+[2] decoding: 100c0f0b
+[1] fetching: 38a00
+
+execution time: 106
+[3] executing: 100c0f0b current cycle: 1 cycle needed: 1
+[2] decoding: 38a00
+[1] fetching: a4a00
+
+execution time: 107
+[3] executing: 38a00 current cycle: 1 cycle needed: 1
+[2] decoding: a4a00
+[1] fetching: 10030c0f
+
+execution time: 108
+[3] executing: a4a00 current cycle: 1 cycle needed: 1
+[2] decoding: 10030c0f
+[1] fetching: 4e900
+
+execution time: 109
+[3] executing: 10030c0f current cycle: 1 cycle needed: 1
+[2] decoding: 4e900
+[1] fetching: 100a0502
+
+execution time: 110
+[3] executing: 4e900 current cycle: 1 cycle needed: 1
+[2] decoding: 100a0502
+[1] fetching: 100b0906
+
+execution time: 111
+[3] executing: 100a0502 current cycle: 1 cycle needed: 1
+[2] decoding: 100b0906
+[1] fetching: 4e900
+
+execution time: 112
+[3] executing: 100b0906 current cycle: 1 cycle needed: 1
+[2] decoding: 4e900
+[1] fetching: 1009040d
+
+execution time: 113
+[3] executing: 4e900 current cycle: 1 cycle needed: 1
+[2] decoding: 1009040d
+[1] fetching: 2a100
+
+execution time: 114
+[3] executing: 1009040d current cycle: 1 cycle needed: 1
+[2] decoding: 2a100
+[1] fetching: 94800
+
+execution time: 115
+[3] executing: 2a100 current cycle: 1 cycle needed: 1
+[2] decoding: 94800
+[1] fetching: 110002f2
+
+execution time: 116
+[3] executing: 94800 current cycle: 1 cycle needed: 1
+[2] decoding: 110002f2
+[1] fetching: 100a0d08
+
+execution time: 117
+[3] executing: 110002f2 current cycle: 1 cycle needed: 1
+[2] decoding: 100a0d08
+[1] fetching: 110d0408
+
+execution time: 118
+[3] executing: 100a0d08 current cycle: 1 cycle needed: 1
+[2] decoding: 110d0408
+[1] fetching: 100f0102
+
+execution time: 119
+[3] executing: 110d0408 current cycle: 1 cycle needed: 1
+[2] decoding: 100f0102
+[1] fetching: 11000faa
+
+execution time: 120
+[3] executing: 100f0102 current cycle: 1 cycle needed: 1
+[2] decoding: 11000faa
+[1] fetching: 10030305
+
+execution time: 121
+[3] executing: 11000faa current cycle: 1 cycle needed: 1
+[2] decoding: 10030305
+[1] fetching: 3d600
+
+execution time: 122
+[3] executing: 10030305 current cycle: 1 cycle needed: 1
+[2] decoding: 3d600
+[1] fetching: 100c000b
+
+execution time: 123
+[3] executing: 3d600 current cycle: 1 cycle needed: 1
+[2] decoding: 100c000b
+[1] fetching: 110e016a
+
+execution time: 124
+[3] executing: 100c000b current cycle: 1 cycle needed: 1
+[2] decoding: 110e016a
+[1] fetching: 39500
+
+execution time: 125
+[3] executing: 110e016a current cycle: 1 cycle needed: 1
+[2] decoding: 39500
+[1] fetching: 10060505
+
+execution time: 126
+[3] executing: 39500 current cycle: 1 cycle needed: 1
+[2] decoding: 10060505
+[1] fetching: 10050202
+
+execution time: 127
+[3] executing: 10060505 current cycle: 1 cycle needed: 1
+[2] decoding: 10050202
+[1] fetching: 110d0d4a
+
+execution time: 128
+[3] executing: 10050202 current cycle: 1 cycle needed: 1
+[2] decoding: 110d0d4a
+[1] fetching: 11080613
+
+execution time: 129
+[3] executing: 110d0d4a current cycle: 1 cycle needed: 1
+[2] decoding: 11080613
+[1] fetching: 1004010b
+
+execution time: 130
+[3] executing: 11080613 current cycle: 1 cycle needed: 1
+[2] decoding: 1004010b
+[1] fetching: 10040c04
+
+execution time: 131
+[3] executing: 1004010b current cycle: 1 cycle needed: 1
+[2] decoding: 10040c04
+[1] fetching: 100b0406
+
+execution time: 132
+[3] executing: 10040c04 current cycle: 1 cycle needed: 1
+[2] decoding: 100b0406
+[1] fetching: 11050617
+
+execution time: 133
+[3] executing: 100b0406 current cycle: 1 cycle needed: 1
+[2] decoding: 11050617
+[1] fetching: 39d00
+
+execution time: 134
+[3] executing: 11050617 current cycle: 1 cycle needed: 1
+[2] decoding: 39d00
+[1] fetching: 11010565
+
+execution time: 135
+[3] executing: 39d00 current cycle: 1 cycle needed: 1
+[2] decoding: 11010565
+[1] fetching: e5900
+
+execution time: 136
+[3] executing: 11010565 current cycle: 1 cycle needed: 1
+[2] decoding: e5900
+[1] fetching: 10040d0e
+
+execution time: 137
+[3] executing: e5900 current cycle: 1 cycle needed: 1
+[2] decoding: 10040d0e
+[1] fetching: 110f0415
+
+execution time: 138
+[3] executing: 10040d0e current cycle: 1 cycle needed: 1
+[2] decoding: 110f0415
+[1] fetching: 3d900
+
+execution time: 139
+[3] executing: 110f0415 current cycle: 1 cycle needed: 1
+[2] decoding: 3d900
+[1] fetching: 100b0c05
+
+execution time: 140
+[3] executing: 3d900 current cycle: 1 cycle needed: 1
+[2] decoding: 100b0c05
+[1] fetching: 11030a77
+
+execution time: 141
+[3] executing: 100b0c05 current cycle: 1 cycle needed: 1
+[2] decoding: 11030a77
+[1] fetching: 11080541
+
+execution time: 142
+[3] executing: 11030a77 current cycle: 1 cycle needed: 1
+[2] decoding: 11080541
+[1] fetching: a6800
+
+execution time: 143
+[3] executing: 11080541 current cycle: 1 cycle needed: 1
+[2] decoding: a6800
+[1] fetching: 10060703
+
+execution time: 144
+[3] executing: a6800 current cycle: 1 cycle needed: 1
+[2] decoding: 10060703
+[1] fetching: 10070a06
+
+execution time: 145
+[3] executing: 10060703 current cycle: 1 cycle needed: 1
+[2] decoding: 10070a06
+[1] fetching: 78c00
+
+execution time: 146
+[3] executing: 10070a06 current cycle: 1 cycle needed: 1
+[2] decoding: 78c00
+[1] fetching: 9b900
+
+execution time: 147
+[3] executing: 78c00 current cycle: 1 cycle needed: 1
+[2] decoding: 9b900
+[1] fetching: 800
+
+execution time: 148
+[3] executing: 9b900 current cycle: 1 cycle needed: 1
+[2] decoding: 800
+[1] fetching: 10090308
+
+execution time: 149
+[3] executing: 800 current cycle: 1 cycle needed: 1
+[2] decoding: 10090308
+[1] fetching: 11070bca
+
+execution time: 150
+[3] executing: 10090308 current cycle: 1 cycle needed: 1
+[2] decoding: 11070bca
+
+execution time: 151
+[3] executing: 11070bca current cycle: 1 cycle needed: 1
+
+Total instruction received: 150
+Total instruction handled: 150
+
+Registers: 
+----------------------------------------
+  R0:  8          |   R1:  808       
+----------------------------------------
+  R2:  161        |   R3:  696       
+----------------------------------------
+  R4:  404        |   R5:  707       
+----------------------------------------
+  R6:  957        |   R7:  2443      
+----------------------------------------
+  R8:  772        |   R9:  1468      
+----------------------------------------
+  R10: 104        |   R11: 2241      
+----------------------------------------
+  R12: 1534       |   R13: 315       
+----------------------------------------
+  R14: 89         |   R15: 425       
+----------------------------------------
+
+Total execution cycles: 152
+
+IPC: 0.986842
+
